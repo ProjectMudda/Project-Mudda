@@ -24,8 +24,11 @@ If any clarification is required while reviewing the architecture or setup, feel
 
 
 Mudda-Backend: https://github.com/Cipher3003/Mudda-backend.git
+
 Mudda-Fronend: https://github.com/DivSaumil/mudda_frontend.git
+
 Mudda-AI-Workflow: https://github.com/ShubhPundir/Mudda-AI-Workflow.git
+
 Mudda-Dashboard: https://github.com/ShubhPundir/Mudda-AI-Workflow.git
 
 ## About Mudda
