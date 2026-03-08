@@ -27,9 +27,11 @@ Mudda-Backend: https://github.com/Cipher3003/Mudda-backend.git
 
 Mudda-Fronend: https://github.com/DivSaumil/mudda_frontend.git
 
+Mudda-RAG-Service: https://github.com/ShubhPundir/Mudda-RAG.git
+
 Mudda-AI-Workflow: https://github.com/ShubhPundir/Mudda-AI-Workflow.git
 
-Mudda-Dashboard: https://github.com/ShubhPundir/Mudda-AI-Workflow.git
+Mudda-AI-Dashboard: https://github.com/ShubhPundir/Mudda-AI-Workflow.git
 
 ## About Mudda
 
